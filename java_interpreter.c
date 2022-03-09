@@ -45,6 +45,7 @@ int main (void) {
         3. add a method eg. run() to the class [TEMPCLASS{}]
         3. append current line\'s code inside the method [run()] 
         4. if enter pressed compile and run the class file and show the result
+        5. add a way to remove all the code inside run() method : reset key
         """
         // getchar(); // hold the screen 
 
