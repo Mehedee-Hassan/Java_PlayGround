@@ -18,7 +18,10 @@ int main (void) {
             exit(1);
         }
 
-
+        if (cnt ==0){
+            printf("SIMPLE TEST PURPOSE CONSOLE ,USE FOR TRYING NEW COMMAND EG.COLLECTION EXPERIMENT \nONLY CAN COMPILE AND RUN CODES THAT ARE WRITTEN INSIDE OF A JAVA METHOD\n");
+        
+        }
 
         if (cnt == 0 | cnt == 10){
             printf("Press CTRL+C or CTRL+z to exit.\n");
@@ -38,9 +41,10 @@ int main (void) {
             c. SOLUTION : catch all the chracters and only print the alpha neumeric characters
             d. TODO: find a way to navigate
 
-        2. create class file and add a method
-        3. append current lines code to the code
-        4. if enter pressed run and show the result
+        2. create class file [eg. TEMPCLASS.java] and write class [TEMPCLASS{}]
+        3. add a method eg. run() to the class [TEMPCLASS{}]
+        3. append current line\'s code inside the method [run()] 
+        4. if enter pressed compile and run the class file and show the result
         """
         // getchar(); // hold the screen 
 
